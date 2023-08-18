@@ -1,1 +1,3 @@
-# .github
+# ITHype
+
+Мы тут: https://ithype.pro/
